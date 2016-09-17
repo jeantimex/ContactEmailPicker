@@ -1,4 +1,4 @@
-# ContactEmailPicker
+# Contact Email Picker
 
 [![CI Status](http://img.shields.io/travis/Yong Su/ContactEmailPicker.svg?style=flat)](https://travis-ci.org/Yong Su/ContactEmailPicker)
 [![Version](https://img.shields.io/cocoapods/v/ContactEmailPicker.svg?style=flat)](http://cocoapods.org/pods/ContactEmailPicker)
