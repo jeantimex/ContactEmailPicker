@@ -22,7 +22,7 @@ pod "ContactEmailPicker"
 
 ## Author
 
-Yong Su, ysu@box.com
+Yong Su, jean.timex@gmail.com
 
 ## License
 
